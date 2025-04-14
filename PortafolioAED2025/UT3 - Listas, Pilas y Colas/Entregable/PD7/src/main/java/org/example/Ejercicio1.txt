@@ -1,0 +1,104 @@
+Lenguaje Natural
+
+
+La operacion de Union es el conjunto de conjuntos ordenados de A y B, que contienen todos los elementos que estan en ambos conjuntos.
+Ejemplo : A = {1,2,3,4,5} B = {4,5,6,7,8} A U B = {1,2,3,4,5,6,7,8}
+Operación de Intersección: La intersección de dos conjuntos ordenados
+
+La interseccion es el conjunto de conjuntos ordenados de A y B, o osea que son los elementos que estan en A y en B a la misma vez.
+Ejemplo = A = {1,2,3,4,5} B = {4,5,6,7,8} A ∩ B = {4,5}
+
+Pre y Post Condiciones
+
+De la Union:
+ Pre : -Que esten ordenados ascendentemente y que esa lista no pueda tener elementos vacios .
+
+Post: -Que esten ordenados ascendentemente y que esa lista no pueda tener elementos repetidos o vacios.
+
+De la Interseccion:
+Pre : -Que esten ordenados ascendentemente y que esa lista no pueda tener elementos vacios .
+Post : -La lista resultante contiene solo los elementos que están en ambos conjuntos.
+
+Seudocódigo:
+
+Algoritmo Union
+Entrada: Dos listas ordenadas A y B
+Salida: Una lista ordenada que es la unión de A y B
+
+ Crear una nueva lista vacía C
+ Inicializar punteros a los primeros elementos de A y B (i y j respectivamente)
+ Mientras i y j sean válidos (no han llegado al final de sus listas):
+    Si el elemento en A[i] < B[j]:
+       Insertar A[i] en C
+       Avanzar el puntero i
+    Sino si A[i] > B[j]:
+       Insertar B[j] en C
+       Avanzar el puntero j
+    Sino (A[i] == B[j]):
+       Insertar A[i] en C
+       Avanzar ambos punteros i y j
+ Mientras i sea válido (no ha llegado al final de A):
+     Insertar A[i] en C
+     Avanzar el puntero i
+ Mientras j sea válido (no ha llegado al final de B):
+     Insertar B[j] en C
+     Avanzar el puntero j
+ Retornar C
+
+
+
+
+
+
+
+ Algoritmo Interseccion
+ Entrada: Dos listas ordenadas A y B
+ Salida: Una lista ordenada que es la intersección de A y B
+
+  Crear una nueva lista vacía C
+  Inicializar punteros a los primeros elementos de A y B (i y j respectivamente)
+  Mientras i y j sean válidos (no han llegado al final de sus listas):
+     Si el elemento en A[i] < B[j]:
+        Avanzar el puntero i
+        Avanzar el puntero j
+     Sino (A[i] == B[j]):
+        Insertar A[i] en C
+        Avanzar ambos punteros i y j
+  Retornar C
+
+
+
+Caso 1: Listas no vacías, con elementos comunes y únicos
+Entradas:
+A = [1, 3, 5, 7]
+B = [2, 3, 6, 7]
+Salida Esperada (Unión): [1, 2, 3, 5, 6, 7]
+Salida Esperada (Intersección): [3, 7]
+
+
+Caso 2: Una lista vacía
+Entradas:
+A = [1, 2, 3]
+B = []
+Salida Esperada (Unión): [1, 2, 3]
+Salida Esperada (Intersección): []
+
+Caso 3: Ambas listas vacías
+Entradas:
+A = []
+B = []
+Salida Esperada (Unión): []
+Salida Esperada (Intersección): []
+
+Caso 4: Listas sin elementos comunes
+Entradas:
+A = [1, 2, 3]
+B = [4, 5, 6]
+Salida Esperada (Unión): [1, 2, 3, 4, 5, 6]
+Salida Esperada (Intersección): []
+
+
+Orden de Ejecucion
+Ambos algoritmos recorren las listas una vez y realizan inserciones o comparaciones en tiempo constante,
+por lo que el tiempo total de ejecución es proporcional al tamaño combinado de las listas.
+Entonces por las operaciones de unión y de intersección tienen un tiempo de ejecución lineal.
