@@ -1,0 +1,7 @@
+Pra,Mek,1
+Mek,Mon,1
+Mek,Gar,1
+Mon,Nai,1
+Mon,Gar,1
+Gar,Nai,1
+Nai,Cai,1

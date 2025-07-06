@@ -1,0 +1,72 @@
+Montevideo,Punta del Este,132
+Montevideo,Colonia del Sacramento,177
+Montevideo,Canelones,46
+Montevideo,Las Piedras,23
+Montevideo,San José,97
+Montevideo,Minas,120
+Montevideo,Florida,98
+Punta del Este,Montevideo,132
+Punta del Este,Maldonado,8
+Punta del Este,Rocha,60
+Punta del Este,Minas,95
+Colonia del Sacramento,Montevideo,177
+Colonia del Sacramento,Carmelo,70
+Colonia del Sacramento,Mercedes,120
+Colonia del Sacramento,San José,140
+Salto,Paysandú,120
+Salto,Artigas,140
+Salto,Rivera,280
+Salto,Tacuarembó,190
+Rivera,Salto,280
+Rivera,Tacuarembó,110
+Rivera,Melo,180
+Rivera,Artigas,200
+Paysandú,Salto,120
+Paysandú,Mercedes,160
+Paysandú,Durazno,180
+Paysandú,Florida,220
+Las Piedras,Montevideo,23
+Las Piedras,Canelones,25
+Las Piedras,Minas,85
+Canelones,Montevideo,46
+Canelones,Las Piedras,25
+Canelones,Florida,65
+Maldonado,Punta del Este,8
+Maldonado,Rocha,52
+Maldonado,Minas,87
+Tacuarembó,Rivera,110
+Tacuarembó,Salto,190
+Tacuarembó,Durazno,120
+Tacuarembó,Melo,140
+Melo,Rivera,180
+Melo,Tacuarembó,140
+Melo,Treinta y Tres,90
+Artigas,Salto,140
+Artigas,Rivera,200
+Mercedes,Colonia del Sacramento,120
+Mercedes,Paysandú,160
+Mercedes,Durazno,140
+Minas,Montevideo,120
+Minas,Punta del Este,95
+Minas,Maldonado,87
+Minas,Las Piedras,85
+Minas,Treinta y Tres,80
+San José,Montevideo,97
+San José,Colonia del Sacramento,140
+San José,Florida,85
+Florida,Montevideo,98
+Florida,Canelones,65
+Florida,San José,85
+Florida,Durazno,75
+Florida,Paysandú,220
+Durazno,Florida,75
+Durazno,Tacuarembó,120
+Durazno,Mercedes,140
+Durazno,Paysandú,180
+Treinta y Tres,Melo,90
+Treinta y Tres,Minas,80
+Treinta y Tres,Rocha,95
+Rocha,Punta del Este,60
+Rocha,Maldonado,52
+Rocha,Treinta y Tres,95
+Carmelo,Colonia del Sacramento,70

@@ -1,0 +1,21 @@
+    @Override
+    public Double[][] floyd() {
+        Double[][] matrizFloyd = UtilGrafos.obtenerMatrizCostos(vertices);
+        Double[][] matrizPredecesores = new Double[matrizFloyd.length][matrizFloyd.length];
+        int tamanio = vertices.size();
+        
+        for (int k = 0; k < tamanio; k++) {
+            for (int i = 0; i < tamanio; i++) {
+                if (matrizFloyd[i][k] == Double.MAX_VALUE) {
+                    continue;
+                }
+                for (int j = 0; j < tamanio; j++) {
+                    if (matrizFloyd[i][k] + matrizFloyd[k][j] < matrizFloyd[i][j]) {
+                        matrizFloyd[i][j] = matrizFloyd[i][k] + matrizFloyd[k][j];
+                        matrizPredecesores[i][j] = (double)k;
+                    }
+                }
+            }
+        }
+        return matrizFloyd;
+    }

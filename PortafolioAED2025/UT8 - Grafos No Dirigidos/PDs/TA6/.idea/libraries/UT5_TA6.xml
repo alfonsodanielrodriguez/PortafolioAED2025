@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UT5-TA6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UT5-TA6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

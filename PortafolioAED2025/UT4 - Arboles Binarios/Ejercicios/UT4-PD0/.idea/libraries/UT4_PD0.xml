@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UT4-PD0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UT4-PD0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,37 @@
+procedure Kruskal (V: CONJUNTO de vértices;
+	A: CONJUNTO de aristas;
+	var T: CONJUNTO de aristas );
+	var
+		comp_n: integer; 	// número actual de componentes
+		aristas: COLA_DE_PRIORIDAD; 	// el conjunto de aristas
+		componentes: CONJUNTO_CE	// el conjunto V agrupado en un conjunto de componentes COMBINA_ENCUENTRA
+		u, v: vértice;
+		a: arista;
+		comp_siguiente: integer;	// nombre para el nuevo componente
+		comp_u, comp_v;			// nombres de componentes
+
+	begin
+		ANULA(T);
+		ANULA(aristas);
+		comp_siguiente = 0;
+		comp_n = número de miembros de V;
+		for v en V do begin		// asigna valor inicial a un componente para que contenga un vértice V
+			comp_siguiente = comp_siguiente + 1;
+			INICIAL(comp_siguiente, v, componentes)
+		end;
+		for a en A do			// asigna valor inicial a la cola de prioridad de aristas
+			INSERTA(a, aristas);
+		end
+		while comp_n > 1 do begin	// considera la siguiente arista
+			a = SUPRIME_MIN(aristas)
+			sea a = (u, v);
+			comp_u = ENCUENTRA(u, componentes);
+			comp_v = ENCUENTRA(v, componentes);
+			if comp_u <> comp_v then begin
+				// a conecta dos componentes diferentes
+				COMBINA(comp_u, comp_v, componentes);
+				comp_n = comp_n - 1;
+				INSERTA(a, T);
+			end
+		end
+	end

@@ -1,0 +1,30 @@
+2. - El orden del tiempo de ejecución de este algoritmo es v * a, siendo v los vertices y a las aristas.
+
+3. - Realizando la búsqueda desde Montevideo se visitaron todos los vértices. Pero en el caso de que 
+quedara alguno sin visitar, se busca en entre todos los vértices el vértice sin visitar, y una vez 
+localizado se le realiza la bpf a ese vértice.
+
+4. - Se realiza una bpf, pero por cada vértice, luego de llegar al destino, lo volvemos a setear como no visitado, 
+para que cuando estemos recorriendolo desde otro origen podamos pasar por él de nuevo.
+
+Caminos desde Montevideo hasta Río de Janeiro:
+	Montevideo - Buenos_Aires - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Asuncion - Porto_Alegre - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Asuncion - Porto_Alegre - San_Pablo - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Asuncion - Porto_Alegre - Santos - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Asuncion - Porto_Alegre - Santos - San_Pablo - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - San_Pablo - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - San_Pablo - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - Santos - San_Pablo - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - Santos - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Buenos_Aires - Porto_Alegre - Santos - San_Pablo - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - San_Pablo - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - San_Pablo - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - Santos - San_Pablo - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - Santos - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - Porto_Alegre - Santos - San_Pablo - Rio_de_Janeiro
+	Montevideo - San_Pablo - Asuncion - Curitiba - Rio_de_Janeiro
+	Montevideo - San_Pablo - Curitiba - Rio_de_Janeiro
+	Montevideo - San_Pablo - Rio_de_Janeiro

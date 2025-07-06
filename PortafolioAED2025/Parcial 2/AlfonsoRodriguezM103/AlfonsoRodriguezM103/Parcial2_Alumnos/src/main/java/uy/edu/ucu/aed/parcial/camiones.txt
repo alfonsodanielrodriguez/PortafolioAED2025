@@ -1,0 +1,8 @@
+CAM001,85,900,Montevideo
+CAM002,95,650,Punta del Este
+CAM003,75,1200,Salto
+CAM004,110,550,Rivera
+CAM005,80,800,Colonia del Sacramento
+CAM006,90,750,Paysandú
+CAM007,70,1000,Tacuarembó
+CAM008,100,600,Maldonado

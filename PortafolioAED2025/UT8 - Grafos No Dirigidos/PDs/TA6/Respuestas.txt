@@ -1,0 +1,45 @@
+Ejercicio 1:
+	
+	Precondiciones:
+			El grafo es conexo
+			El grafo está bien formado
+			El grafo tiene una lista de sus aristas ordenadas por costo de menor a mayor
+			El conjunto de aristas del grafo contiene la arista (v, u) para toda arista (u, v) en el grafo
+
+		Postcondiciones:
+			El grafo se mantiene intacto
+	
+	Pseudocodigo:
+	    FUNCION TGrafoNoDirigido.kruskal(): TGrafoNoDirigido
+		COMIENZO
+			TAristas F = nueva TAristas()
+			entero numVertices = this.getVertices().size()
+			Map<Comparable, Integer> componentes = nuevo HashMap<>()
+			entero i = 0
+			PARA CADA(vertice : this.getVertices().keySet())HACER
+				componentes.poner(vertice, i)
+				i++
+			FIN PARA CADA
+			entero contador = numVertices - 1
+
+			Iterator<TArista> iter = aristas.iterator()
+			MIENTRAS (contador > 0 && iter.hasNext()) HACER
+				TArista arista = iter.next()
+				entero comp1 = componentes.get(arista.etiquetaOrigen)
+				entero comp2 = componentes.get(arista.etiquetaDestino)
+				SI (comp1.equals(comp2) == falso) ENTONCES
+					F.agregar(arista)
+					PARA CADA (vertice : this.getVertices().keySet()) HACER
+						SI(componentes.get(vertice).equals(comp1)) ENTONCES
+							componentes.put(vertice, comp2)
+						FIN SI
+					FIN PARA CADA
+					contador--
+				FIN SI
+			FIN MIENTRAS
+			SI (contador > 0) ENTONCES
+				return null
+			FIN SI 
+			TGrafoNoDirigido kruskal = nuevo TGrafoNoDirigido(this.getVertices().values(), F);
+			devolver kruskal;
+		FIN

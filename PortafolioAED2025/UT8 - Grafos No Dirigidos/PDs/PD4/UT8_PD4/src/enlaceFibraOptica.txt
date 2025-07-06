@@ -1,0 +1,12 @@
+CC1 --> CC4. Costo: 3.0
+CC4 --> CC6. Costo: 3.0
+CC4 --> CC3. Costo: 4.0
+CC3 --> CC2. Costo: 3.0
+CC3 --> CC5. Costo: 5.0
+El costo total de unir todos los Centros de Comunicaciones mediante fibre óptica es: 18.0
+CC1 --> CC4. Costo: 3.0
+CC4 --> CC6. Costo: 3.0
+CC4 --> CC3. Costo: 4.0
+CC3 --> CC2. Costo: 3.0
+CC3 --> CC5. Costo: 5.0
+El costo total de unir todos los Centros de Comunicaciones mediante fibre Ã³ptica es: 18.0

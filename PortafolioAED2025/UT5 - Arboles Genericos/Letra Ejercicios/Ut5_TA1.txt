@@ -1,0 +1,38 @@
+Lenguaje natural: Se recorre el nodo. Si la etiqueta del nodo es igual a la etiqueta buscada, se devuelve el nodo; si no, se recorre recursivamente primero su hijo. Si no tiene hijo, se recorre su primer hermano. Si se recorren todos los nodos y no se encuentra, no devuelve nada.
+
+Precondiciones:
+
+El árbol existe.
+Si la etiqueta está en el árbol, devuelve un nodo con esa etiqueta.
+Si el nodo no está en el árbol, devuelve null.
+Cantidad de comparaciones:
+
+Rectoría: 1
+Vicerrectoría del medio universitario: 8
+Vicerrectoría académica: 9
+Vicerrectoría administrativa: 11
+Facultad de ciencias empresariales: 4
+Facultad de ciencias humanas: 5
+Facultad de ingeniería y tecnología: 6
+Facultad de psicología: 10
+Departamento de informática: 7
+Departamento de ingeniería eléctrica: 9
+Departamento de matemáticas: 8
+
+
+
+PSEUDOCODIGO
+
+Buscar(etiqueta) -> Devuelve nodo
+
+COM
+  SI nodo.etiqueta es igual a etiqueta
+    Devuelve nodo  (O(1))
+  SINO
+    unHijo ← PrimerHijo (O(1))
+    MIENTRAS unHijo ≠ null
+      unHijo.Buscar(etiqueta) (O(a))
+      unHijo ← unHijo.HermanoDerecho (O(1))
+    FIN MIENTRAS
+  FIN SI
+Devuelve null (O(1))

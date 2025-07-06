@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abdb39e6-8142-4c97-a9be-e7a7e5083d0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Apuntes de JAVA/Lenguaje JAVA.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/Ejercicios para realizar/UT1_PD9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UT1_Reflexion.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/UT1-PD1a.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/Ejercicio 1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/Ejercicio 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/UT1-PD1a/src/multsuma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/Contador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/Ejercicio 1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/Ejercicio 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD1/out/production/UT1-PD/multsuma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/UT1_PD10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/src/ContadorPalabras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/UT1_PD2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/src/Prueba.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/src/Prueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/src/SaludoForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD2/src/SaludoForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/UT1_PD3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/src/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/src/MainMaquinaA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/src/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD3/src/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/UT1_PD4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/src/IdentifyMyParts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/src/NumberHolter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD4/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/UT1_PD5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/ComputeResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/ToStringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/archivo6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD5/src/archivo7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/PD1_TA6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/UT1_PD6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/Calculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/LeerArchivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/Tablero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/archivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD6/src/medidas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/UT1_TA7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/UT1-TA8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD8/src/MarcaPaso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/UT1_PD9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/src/IsPrimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT1/UTAS Ejercicios realizados/UT1/UT1_PD9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/Eliminar duplicados.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD1/UT2_PD1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD1/numeros.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/Conjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/IConjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/ILista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/INodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/Nodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/build/classes/ProgramaPD12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/Conjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/IConjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/ListaOrdenada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/ProgramaPD12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/basico-emp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/PD12 - proyecto Netbeans/PD12/src/basico-ing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD12/UT3_PD12/UT3_PD12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/UT3_PD3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/src/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/src/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD3/UT3_PD3/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/.idea/libraries/PD4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/.idea/libraries/interfacesYUtilTA2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT2_PD4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/PD4/UT3_PD4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/PD4/altas.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/PD4/ventas.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/AlmacenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/IAlmacen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/IProducto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/ManejadorArchivosGenerico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/archivos almacen.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD4/UT3_PD4/interfacesYUtilTA2/archivos prueba.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/UT3_PD6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/ciudades.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/suc1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/suc2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/suc3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD6/UT3_PD6/sucursales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD8/UT3_PD8/UT3_PD8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD8/UT3_PD8/suc1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD8/UT3_PD8/suc2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD8/UT3_PD8/suc3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT2_PD8/UT3_PD8/sucursales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT3_PD1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT3_PD14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT3_PD2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT3_PD7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/Consigna UT3/UT3_PD9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/Orden del tiempo UT2-TA1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/UT2_PD1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD1 leer archivos/src/leerarchivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT2_PD3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/UT3 _ PD14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/src/CircularQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD14 colas circulares/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/UT3 _ PD8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/archivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/suc1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/suc2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/suc3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD8 sucursales_2/src/sucursales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/UT3 _ PD9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/src/Expresion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _ PD9 Pilas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3 _PD1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/Conjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/IConjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/ILista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/INodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/Nodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/build/classes/ProgramaPD12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/Archivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/Conjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/IConjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/ListaOrdenada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/ProgramaPD12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/ProgramaPD12Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/TConjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/TLista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/basico-emp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/PD12 - proyecto Netbeans/PD12/src/basico-ing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/UT3_PD12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/UT3_PD12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/exigente102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/integrador101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/Archivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/Conjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/IConjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/ILista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/INodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/ListaOrdenada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/Nodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/ProgramaPD12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/ProgramaPD12Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/TConjunto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/TLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/basico-emp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD12 Conjuntos/out/production/UT3_PD12/basico-ing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT2_PD3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/UT3_PD3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/src/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/src/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD3 TDA Lista/UT3_PD3/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/.idea/PD4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Almacen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/IAlmacen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/IProducto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/ManejadorArchivosGenerico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos almacen/altas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos almacen/elim.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos almacen/ventas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos prueba/altasPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos prueba/elimPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/src/main/java/ut3_pd4/interfacesYUtilTA2/archivos prueba/ventasPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Almacen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/IAlmacen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/ILista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/INodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/IProducto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/ManejadorArchivosGenerico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Nodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos almacen/altas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos almacen/elim.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos almacen/ventas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos prueba/altasPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos prueba/elimPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD4 GEANT/PD4/ut3_pd4/target/classes/ut3_pd4/interfacesYUtilTA2/archivos prueba/ventasPrueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/UT3_PD6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/ListaSimpleEnlazada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/archivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/ciudades.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/suc1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/suc2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/suc3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD6 Sucursales/src/sucursales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/UT3_PD7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/Conjunto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/Ejercicio1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/ILista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/INodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT 3 Ejercicios entregables/UT3_PD7 Union e Interseccion/src/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT2_TA1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 1 2015-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 1 2016-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 3 2015-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 3 2016-1-A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 3 2016-1-B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/Primer parcial Parte 3 2019-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_PD10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_PD11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_PD13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_TA10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_TA6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Ej Adicionales/UT3_TA7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/UT3_Reflexion.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/ArbolBB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/ArbolBB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/ElementoAB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/ElementoAB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/IArbolBB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/IArbolBB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/IElementoAB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/IElementoAB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/ManejadorArchivosGenerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/ManejadorArchivosGenerico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alfo/UT4_PD2_ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alfo/UT4_PD2_ej2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2o5mUYuFXADvlVTR0XLDzFKR3rN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alfon/Desktop/portafolio-alfonsodanielrodriguez/Unidad Temática 4/Ejercicios/UT4_TA2",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alfon\Desktop\portafolio-alfonsodanielrodriguez\Unidad Temática 4\Ejercicios\UT4_PD2_ej2\src\main\java\Alfo" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abdb39e6-8142-4c97-a9be-e7a7e5083d0f" name="Changes" comment="" />
+      <created>1730167826519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730167826519</updated>
+      <workItem from="1730167827554" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+Ejercicio 1:
+	Respuesta: C - El arco de Asunción a Porto Alegre es cruzado
+
+Ejercicio 2:
+BPF:
+Curitiba, Rio_de_Janeiro, San_Pablo, Asuncion, Buenos_Aires, Montevideo, Florianopolis, Porto_Alegre, Santos,
+
+Pregunta1:
+	Respuesta: No son correctas: A, C, D
+	

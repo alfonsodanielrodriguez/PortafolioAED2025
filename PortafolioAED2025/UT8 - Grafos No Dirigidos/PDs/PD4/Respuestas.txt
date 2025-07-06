@@ -1,0 +1,110 @@
+Ejercicio 1:
+	
+	El problema describe claramente un Grafo No Dirigido donde los CC son los vértices y las áristas representan la relación de fibra optica entre los mismos. 
+	El costo de cada arista es el costo de conectar un CC a otro. Para optimizar la conexion de los CC se debería utilizar el algoritmo de Prim o Kruskal, 
+	el algoritmo de Kruskal es mejor si la cantidad de casas al cuadrado es menor a la cantidad de cables. 
+	En este caso no se cumple lo anterior por lo tanto es mejor utilizar el algoritmo de Prim.
+
+	Ya que para la solución de este problema utilizaremos un Grafo No Dirigido, los vértices serán representados con un HashMap de vértices (casas), a su vez 
+	tendremos una LinkedList de aristas (cables); con pares no ordenados, es decir que el cable que va de la casa A a la casa B es el mismo que va de la B a la A.
+
+	PRIM
+		LN:
+			Se inicializan distintas linkedlist, U de vertices (vacia), V de los vertices del grafo y res de aristas (vacia)
+			Se quita el primer vertice de V y se lo agrega a U.
+			Luego, mientras V no sea vacia, se busca la menor arista entre cualquier vertice de U y cualquiera de V,
+			si esa arista no es nula se la agrega a res, y su vertice destino es eliminado de V y agregado a U.
+			Una vez que V sea vacia, devolvemos un nuevo grafo no dirigido con U y res como parametros. 
+			
+		Precondiciones:
+			El grafo es conexo
+			El grafo está bien formado
+			El conjunto de aristas del grafo contiene la arista (v, u) para toda arista (u, v) en el grafo
+
+		Postcondiciones:
+			El grafo se mantiene intacto
+
+		Pseudocódigo:
+		FUNCIÓN TGrafoNoDirigido.Prim(vertice: TVertice): TGrafoNoDirigido
+		COMIENZO	
+			SI no es conexo ENTONCES								O(1)
+				devolver nulo									O(1)
+			FIN SI
+			U = nueva LinkedList<TVertice>							O(1)
+			V = this.vertices.copia									O(1)
+			res = nueva LinkedList<TArista>							O(1)
+			U.agregar(V.primero)									O(1)
+			V.eliminarPrimero()									O(1)
+
+			MIENTRAS V no vacio HACER								O(n)	 --> } --> Por la regla de la multiplicacion
+				TArista nuevaArista = this.aristas.buscarMin(U, V)			O(n^2) --> } --> el algoritmo es O(n^3)
+				SI nuevaArista <> nulo ENTONCES						O(1)
+					res.agregar(nuevaArista)						O(1)
+					TVertice vDest = nuevaArista.destino				O(1)
+					res.agregar(nuevaArista)						O(1)
+					V.eliminar(vDest)								O(n) 	 --> Se hace la regla de la suma con O(n^2)
+					U.agregar(vDest)								O(1)
+				FIN SI
+			FIN MIENTRAS
+			devolver nuevo TGrafoNoDirigido(U,res)						O(1)
+		FIN
+
+		TAristas.buscarMin(U, V: colecciones de vertices): TArista
+		COM
+    			TArista minArista <- null								O(1)
+    			int minCosto <- maxInt									O(1)
+   			Para cada verticeV en V hacer								O(n)	} --> Por la regla de la multiplicacion
+   			      tempArista <- buscar(u, v)							O(n)	} -->	el algoritmo es O(n^2)
+        			Si tempArista <> nulo entonces						O(1)
+            			Si tempArista.costo < minCosto entonces				O(1)	
+                				minArista <- tempArista						O(1)
+                				minCosto <- tempArista.costo					O(1)
+            			Fin si
+        			Fin si
+    			Fin para cada
+    			devolver minArista									O(1)
+		FIN
+
+		TAristas.buscar(Comparable etO, Comparable etD): TArista
+		COM
+			PARA CADA arista en this HACER							O(n) --> El algoritmo es O(n)
+				SI arista.etiO == etO y arista.etiD == etD ENTONCES			O(1)
+					devolver arista								O(1)
+				FIN SI
+			FIN PARA CADA
+			devolver null										O(1)
+		FIN
+
+	Parte4:
+		Orden de tiempo de ejecución O(n^3).
+
+
+Ejercicio 2:
+
+De TGrafoNoDirigido:
+
+    TGrafoNoDirigo.conectados(v, w de tipo vertice): booleano
+    COM
+        devolver v.conectadoCon(w)
+    FIN
+
+
+De TVertice:
+
+    TVertice.conectadoCon(de tipo vertice w): booleano
+    COM
+        TAdyacencia resultado = buscarAdyacencia(w.etiqueta)
+        devolver resultado <> nulo
+    FIN
+
+
+
+
+    TVertice.buscarAdyacencia(de tipo vertice w)
+    COM
+        Para cada tAdyacencia en adyacentes hacer
+            Si tAdyacencia.destino = w.etiqueta entonces
+                devolver tAdyacencia
+            Fin Si
+        Fin para cada
+        devolver nulo

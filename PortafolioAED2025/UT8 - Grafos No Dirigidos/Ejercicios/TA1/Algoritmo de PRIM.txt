@@ -1,0 +1,10 @@
+El Algoritmo de Prim es un algoritmo de búsqueda de un Árbol de Expansión Mínima (AEM) en un grafo conexo ponderado. El objetivo es encontrar un conjunto de aristas que conecten todos los vértices del grafo de forma que el costo total de las aristas sea el mínimo posible.
+
+1. Inicializar un conjunto V de vértices seleccionados vacío
+2. Seleccionar un vértice arbitrario v y añadirlo a V
+3. Inicializar una lista de aristas S vacía
+4. Mientras el tamaño de V sea menor que el número total de vértices:
+   a) Buscar la arista de menor peso que conecta un vértice en V con un vértice fuera de V
+   b) Añadir esa arista a S
+   c) Añadir el vértice conectado al conjunto V
+5. Retornar el conjunto S de aristas que forman el Árbol de Expansión Mínima

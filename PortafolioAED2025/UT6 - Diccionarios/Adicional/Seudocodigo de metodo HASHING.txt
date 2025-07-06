@@ -1,0 +1,15 @@
+TTablaHash <- implementa IHash
+	Array tabla
+	int tamaño
+	int cantidadElementos
+
+TTablaHash (int tamaño){
+	Tamaño <- tamaño
+	tabla <- Array tabla
+	cantidadElementos <- 0
+}
+
+funciónHashing(unaClave){
+	devuelve unaClave % tamaño
+}
+

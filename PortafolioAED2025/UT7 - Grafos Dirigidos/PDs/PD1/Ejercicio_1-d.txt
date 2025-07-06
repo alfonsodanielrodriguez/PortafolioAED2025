@@ -1,0 +1,34 @@
+Lenguaje natural -> Dado un vector de antecesores y un vertice destino pasados como parámetros.
+Dentro de un bucle, agregar el vertice a un stack, luego buscar en el vector 
+la posicion del vertice y tomar este valor como nuevo vertice, esto se repite
+mientras exista un vertice predecesor al actual. Cuando no se encuentre un vertice predecesor,
+es el origen. 
+Por ultimo, recorriendo el stack vamos agregando a un string las etiquetas de
+estos vertices de modo que el recorrido quede en orden.
+Devolvemos el string.
+
+Precondiciones:
+	- El vector de predecesores es de tipo vertice.
+	- El vertice origen no tiene predecesor.
+	- No existen dos vertices con la misma etiqueta.
+
+Postcondiciones:
+	- El vector no se modifica
+
+
+imprimirCamino(tipo vector de vertices: P, tipo vertice: verticeDestino) : String
+COM
+	stack = nuevo Stack()
+	vertice = verticeDestino
+	Mientras P[vertice] <> nulo hacer
+		stack.push(vertice.Etiqueta)
+		vertice = P[vertice]
+	Fin Mientras
+	string camino = vertice.Etiqueta  // Primero el vertice de origen
+	Mientras !stack.esVacio() hacer
+		eti = stack.pop()
+		string += ", " + eti
+	Fin Mientras
+	devolver camino
+FIN
+		  	

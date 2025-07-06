@@ -1,0 +1,43 @@
+Asignación de Lectura Previa
+Lectura Básica
+Libro "Estructuras de Datos y Algoritmos”, Aho, Hopcroft, Ullman
+
+Grafos no dirigidos, Capítulo 7, secciones 7.1, 7.2 (excepto las figuras 7.8 y 7.10), 7.3 y 7.4  
+Lectura complementaria
+Libro: “The algorithm desing manual”, Skiena
+
+Capítulo 5: secciones 5.5, 5.6, 5.7, 5.9
+Capítulo 6: secciones 6.1, 6.6
+Videos en Youtube:
+
+http://www.youtube.com/watch?feature=player_detailpage&v=9zpSs845wf8
+Estructuras de Datos para Grafos:
+
+http://www.youtube.com/watch?feature=player_detailpage&v=hk5rQs7TQ7E
+PRIM
+
+http://www.youtube.com/watch?v=7FtGk9yr66A
+Demos / animaciones de la búsqueda en amplitud:
+
+https://csacademy.com/lesson/breadth_first_search/
+https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/search.html 
+https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding
+https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses
+Aplicaciones de la búsqueda en amplitud:
+
+http://www.youtube.com/watch?feature=player_detailpage&v=r1-8p11fSPw
+Búsqueda en profundidad:
+
+http://www.youtube.com/watch?feature=player_detailpage&v=CIm6RzdoPCI
+Aplicaciones de la búsqueda en profundidad:
+
+http://www.youtube.com/watch?v=bmyyxNyZKzI
+Wikipedia:
+
+http://en.wikipedia.org/wiki/Graph_(abstract_data_type)
+http://en.wikipedia.org/wiki/Graph_traversal
+http://en.wikibooks.org/wiki/Data_Structures/Graphs
+Libro: “The algorithm desing manual”, Skiena
+
+Capítulos 5 ,6 y 15.    
+http://opendatastructures.org/ods-java/12_Graphs.html
